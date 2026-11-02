@@ -1,0 +1,9 @@
+Flask>=3.0
+numpy>=1.26
+opencv-python>=4.9
+Pillow>=10.0
+scikit-image>=0.22
+scikit-learn>=1.4
+tensorflow>=2.16
+matplotlib>=3.8
+easyocr>=1.7

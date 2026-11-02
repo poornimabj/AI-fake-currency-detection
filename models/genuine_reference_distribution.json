@@ -1,0 +1,21 @@
+{
+  "model_type": "genuine_reference_anomaly_detection",
+  "base_model": "MobileNetV2 ImageNet",
+  "genuine_reference_count": 9,
+  "reference_files": [
+    "train\\genuine\\user_verified_genuine_01.jpg",
+    "train\\genuine\\user_verified_genuine_02.jpg",
+    "train\\genuine\\user_verified_genuine_03.jpg",
+    "train\\genuine\\user_verified_genuine_04.jpg",
+    "train\\genuine\\user_verified_genuine_05.jpg",
+    "train\\genuine\\user_verified_genuine_06.jpg",
+    "train\\genuine\\user_verified_genuine_07.jpg",
+    "train\\genuine\\user_verified_genuine_08.jpg",
+    "train\\genuine\\verified_issued_genuine_20_01.png"
+  ],
+  "embedding_dimension": 1280,
+  "reconstruction_threshold": 0.8838697671890259,
+  "distance_threshold": 60.77679443359375,
+  "counterfeit_detection_claim": false,
+  "interpretation": "Consistent means visually close to the available genuine-reference distribution. Unusual means a visual pattern outside that distribution; it does not prove counterfeiting."
+}

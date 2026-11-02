@@ -1,0 +1,10 @@
+filename,split,class,verification,source_note
+verified_issued_genuine_20_01.png,train,genuine,verified issued genuine note with documented provenance,
+user_verified_genuine_01.jpg,train,genuine,user-confirmed genuine currency,provenance source not independently verified in supplied dataset record
+user_verified_genuine_02.jpg,train,genuine,user-confirmed genuine currency,provenance source not independently verified in supplied dataset record
+user_verified_genuine_03.jpg,train,genuine,user-confirmed genuine currency,provenance source not independently verified in supplied dataset record
+user_verified_genuine_04.jpg,train,genuine,user-confirmed genuine currency,provenance source not independently verified in supplied dataset record
+user_verified_genuine_05.jpg,train,genuine,user-confirmed genuine currency,provenance source not independently verified in supplied dataset record
+user_verified_genuine_06.jpg,train,genuine,user-confirmed genuine currency,provenance source not independently verified in supplied dataset record
+user_verified_genuine_07.jpg,train,genuine,user-confirmed genuine currency,provenance source not independently verified in supplied dataset record
+user_verified_genuine_08.jpg,train,genuine,user-confirmed genuine currency,provenance source not independently verified in supplied dataset record
